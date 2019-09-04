@@ -1,0 +1,13 @@
+{
+  "informationImportExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "informationImportExecuteRecordReference" : "IIERR731510",
+  "informationImportInstanceRecord" : {
+    "informationFeedServiceContentRecordImportRequestRecord" : {},
+    "informationFeedServiceContentRecordImportResponse" : "informationFeedServiceContentRecordImportResponse"
+  },
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceContentRecord" : {}
+  },
+  "informationImportExecuteActionTaskReference" : "IIEATR722718"
+}

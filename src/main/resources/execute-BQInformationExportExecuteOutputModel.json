@@ -1,0 +1,14 @@
+{
+  "informationExportInstanceRecord" : {
+    "informationFeedServiceContentRecordExportResponse" : "informationFeedServiceContentRecordExportResponse",
+    "informationFeedServiceContentRecordExportRequestStatus" : "informationFeedServiceContentRecordExportRequestStatus"
+  },
+  "informationExportExecuteRecordReference" : "IEERR777051",
+  "executeResponseRecord" : {},
+  "informationExportExecuteActionTaskReference" : "IEEATR766400",
+  "informationExportExecuteActionTaskRecord" : {},
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceContentRecord" : {},
+    "informationFeedServiceContentRecordReference" : "761640"
+  }
+}

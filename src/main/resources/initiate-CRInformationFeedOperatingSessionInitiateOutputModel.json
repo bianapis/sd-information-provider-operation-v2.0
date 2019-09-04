@@ -1,0 +1,27 @@
+{
+  "informationFeedOperatingSessionInstanceReference" : "IFOSIR731397",
+  "informationExportInstanceRecord" : {
+    "informationFeedServiceContentRecordExportRequest" : "informationFeedServiceContentRecordExportRequest",
+    "informationFeedServiceContentRecordExportRequestRecord" : {},
+    "informationFeedServiceContentRecordExportRequestType" : "informationFeedServiceContentRecordExportRequestType",
+    "informationFeedServiceContentRecordExportResponse" : "informationFeedServiceContentRecordExportResponse",
+    "informationFeedServiceContentRecordExportRequestStatus" : "informationFeedServiceContentRecordExportRequestStatus"
+  },
+  "informationFeedOperatingSessionInitiateActionRecord" : {},
+  "serviceSelectionInstanceRecord" : {},
+  "informationFeedOperatingSessionInstanceStatus" : "informationFeedOperatingSessionInstanceStatus",
+  "informationFeedOperatingSessionInitiateActionReference" : "IFOSIAR741316",
+  "informationImportInstanceRecord" : {
+    "informationFeedServiceContentRecordImportRequestRecord" : {},
+    "informationFeedServiceContentRecordImportResponse" : "informationFeedServiceContentRecordImportResponse",
+    "informationFeedServiceContentRecordImportRequest" : "informationFeedServiceContentRecordImportRequest"
+  },
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceConfigurationSettingReference" : "716152",
+    "informationFeedServiceConfigurationSetting" : "informationFeedServiceConfigurationSetting",
+    "informationFeedProviderServiceProfile" : "informationFeedProviderServiceProfile",
+    "informationFeedProviderServiceReference" : "760790",
+    "informationFeedServiceContentRecord" : {},
+    "informationFeedServiceContentRecordReference" : "703882"
+  }
+}

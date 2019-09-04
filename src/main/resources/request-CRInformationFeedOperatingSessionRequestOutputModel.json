@@ -1,0 +1,11 @@
+{
+  "informationFeedOperatingSessionRequestActionTaskReference" : "IFOSRATR751386",
+  "requestRecordReference" : "RRR737996",
+  "informationFeedOperatingSessionRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceConfigurationSetting" : "informationFeedServiceConfigurationSetting",
+    "informationFeedProviderServiceProfile" : "informationFeedProviderServiceProfile",
+    "informationFeedProviderServiceReference" : "766999"
+  }
+}

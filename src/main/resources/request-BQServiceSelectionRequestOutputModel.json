@@ -1,0 +1,10 @@
+{
+  "serviceSelectionRequestActionTaskReference" : "SSRATR759218",
+  "serviceSelectionRequestRecordReference" : "SSRRR715809",
+  "serviceSelectionInstanceRecord" : {},
+  "serviceSelectionRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceConfigurationSetting" : "informationFeedServiceConfigurationSetting"
+  }
+}

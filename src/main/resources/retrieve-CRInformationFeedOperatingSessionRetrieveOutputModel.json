@@ -1,0 +1,37 @@
+{
+  "informationExportInstanceRecord" : {
+    "informationFeedServiceContentRecordExportRequest" : "informationFeedServiceContentRecordExportRequest",
+    "informationFeedServiceContentRecordExportRequestRecord" : {},
+    "informationFeedServiceContentRecordExportRequestType" : "informationFeedServiceContentRecordExportRequestType",
+    "informationFeedServiceContentRecordExportResponse" : "informationFeedServiceContentRecordExportResponse",
+    "informationFeedServiceContentRecordExportRequestStatus" : "informationFeedServiceContentRecordExportRequestStatus"
+  },
+  "informationFeedOperatingSessionRetrieveActionResponse" : "informationFeedOperatingSessionRetrieveActionResponse",
+  "informationFeedOperatingSessionInstanceReportRecord" : {
+    "informationFeedOperatingSessionInstanceReportData" : "informationFeedOperatingSessionInstanceReportData",
+    "informationFeedOperatingSessionInstanceReport" : {},
+    "informationFeedOperatingSessionInstanceReportType" : "informationFeedOperatingSessionInstanceReportType"
+  },
+  "serviceSelectionInstanceRecord" : {},
+  "informationFeedOperatingSessionRetrieveActionTaskReference" : "IFOSRATR770947",
+  "informationFeedOperatingSessionRetrieveActionTaskRecord" : {},
+  "informationImportInstanceRecord" : {
+    "informationFeedServiceContentRecordImportRequestRecord" : {},
+    "informationFeedServiceContentRecordImportResponse" : "informationFeedServiceContentRecordImportResponse",
+    "informationFeedServiceContentRecordImportRequest" : "informationFeedServiceContentRecordImportRequest"
+  },
+  "informationFeedOperatingSessionInstanceAnalysis" : {
+    "informationFeedOperatingSessionInstanceAnalysisReportType" : "informationFeedOperatingSessionInstanceAnalysisReportType",
+    "informationFeedOperatingSessionInstanceAnalysisData" : "informationFeedOperatingSessionInstanceAnalysisData",
+    "informationFeedOperatingSessionInstanceAnalysisReport" : {}
+  },
+  "informationFeedOperatingSessionInstanceRecord" : {
+    "informationFeedServiceConfigurationSettingReference" : "705587",
+    "informationFeedServiceConfigurationSetting" : "informationFeedServiceConfigurationSetting",
+    "informationFeedProviderServiceProfile" : "informationFeedProviderServiceProfile",
+    "informationFeedProviderReference" : "753219",
+    "informationFeedProviderServiceReference" : "737308",
+    "informationFeedServiceContentRecord" : {},
+    "informationFeedServiceContentRecordReference" : "739321"
+  }
+}
